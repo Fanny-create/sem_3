@@ -1,0 +1,43 @@
+header{
+    background-color: #008080;
+    padding: 7px;
+}
+header a{
+    color: blanchedalmond;
+    font-size: 1.7em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+article{
+    height: 90px;
+    width: 500px;
+    background-color: rgb(0, 255, 76);
+    margin-left: 30px;
+    padding-left: 40px;
+    padding-top: 20px;
+    margin:30px;
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-size: 1.3em;
+    text-decoration-thickness: 3px;
+}
+article h3{
+    color: rgb(233, 103, 10);
+    font-size: 1.1em;
+    
+
+}
+span{
+color:skyblue;
+font-weight: bold;
+}
+h2{
+    padding-left: 40px;
+    font-weight: lighter;
+}
+section{
+    margin: 30px;
+}
